@@ -8,5 +8,6 @@
 1. Установите библиотеку selenium
 2. скачайте geckodriver для вашей версии firefox https://github.com/mozilla/geckodriver/releases
 3. geckodriver переместите в папку с вашим проектом python
+4. не забываем указать путь для сохранения файла и geckodriver
 
 
